@@ -15,6 +15,6 @@ plus 10 K.
 * Target: failure or no failure (to perform binary classification).
 * Failure Type: type of failure (to perform multiclass classification).
 
-*It also includes the following information, which is not useful for building the models:
+* It also includes the following information, which is not useful for building the models:
 * UID: unique identifier ranging from 1 to 10000.
 * ProductID: the id of the product.
