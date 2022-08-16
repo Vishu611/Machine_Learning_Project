@@ -1,4 +1,5 @@
 # Machine_Learning_Project
+![image](https://user-images.githubusercontent.com/109312561/184933022-550f58d7-9a99-4494-9b28-9de34e0824dd.png)
 **Brief Description**
 This dataset reflects real predictive maintenance encountered in the industry with measurements from real equipment. The features description is taken directly from the dataset source.
 
