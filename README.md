@@ -1,4 +1,5 @@
-# Machine_Learning_Project
+# Machine_Failure Prediction
+
 
 ![image](https://user-images.githubusercontent.com/109312561/184933155-9af7e1a4-0639-449a-beaa-ed9821151977.png)
 
